@@ -1,0 +1,15 @@
+Create a deck of cards
+Shuffle
+Cut the deck
+Deal players hole cards
+Burns a card
+Deals flop
+Burns a card
+Deals turn
+Burns a card
+Deals river
+Prints the deck to console to show random deck was used
+Prints the 'board'
+Prints burn cards
+Printers players cards
+Evaluates the value of each players hand (Royal flush, full house, etc...)
